@@ -2,7 +2,7 @@
 
 
 
-![12](https://user-images.githubusercontent.com/88023478/177031028-567e0ae2-ca7d-4229-bb8b-c57e0966c8cf.jpg)
+![12](https://user-images.githubusercontent.com/88023478/177031028-567e0ae2-ca7d-4229-bb8b-c57e0966c8cf.jpg) width =200 height=150
 
 
 
