@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![21004063](https://user-images.githubusercontent.com/88023478/177031120-3f06987e-01d3-477d-b8c9-1bd5b35bbbc0.jpg)
+<img src="2206"  width="100" height="100">
 
 
 
