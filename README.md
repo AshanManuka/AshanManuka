@@ -7,15 +7,14 @@
 
 
 
-- 🌱 I’m currently learning Computer Science
+- 🌱 I’m currently learning Languages and FrameWorks
 - 👯 I’m looking to collaborate here
 - 💬 Ask me about ...
 - 📫 How to reach me: manukajayarathne.coma@gmail.com
 - 👨‍💻 All of my projects are available Here
 - ⚡ Fun fact: I'm a Variable 😁
 
-
-Languages and Tools:
-
-android android gradle angularjs angularjs bootstrap css3 express figma firebase flutter git html5 illustrator java javascript mongodb mongodb mysql nodejs nodejs photoshop postgresql postman react reactnative sass spring typescript xd jetbrains jetbrains jetbrains jetbrains jetbrains jetbrains jetbrains jetbrains
-
+<html>
+<a href="https://www.java.com" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40" style="max-width: 100%;"> </a>
+</html>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40" style="max-width: 100%;">
