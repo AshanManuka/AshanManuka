@@ -1,8 +1,9 @@
 ### Hi there 👋
 
+![21004063](https://user-images.githubusercontent.com/88023478/177031120-3f06987e-01d3-477d-b8c9-1bd5b35bbbc0.jpg)
 
 
-![12](https://user-images.githubusercontent.com/88023478/177031028-567e0ae2-ca7d-4229-bb8b-c57e0966c8cf.jpg) width =200 height=150
+
 
 
 
