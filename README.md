@@ -1,16 +1,21 @@
 ### Hi there 👋
 
-<img src="AshanManuka/21004063.jpg"  width="100" height="100">
 
 
 
 
 
 
-- 🌱 I’m currently learning at Institute of Software Engineering(IJSE)
+
+- 🌱 I’m currently learning Computer Science
 - 👯 I’m looking to collaborate here
 - 💬 Ask me about ...
 - 📫 How to reach me: manukajayarathne.coma@gmail.com
 - 👨‍💻 All of my projects are available Here
 - ⚡ Fun fact: I'm a Variable 😁
+
+
+Languages and Tools:
+
+android android gradle angularjs angularjs bootstrap css3 express figma firebase flutter git html5 illustrator java javascript mongodb mongodb mysql nodejs nodejs photoshop postgresql postman react reactnative sass spring typescript xd jetbrains jetbrains jetbrains jetbrains jetbrains jetbrains jetbrains jetbrains
 
