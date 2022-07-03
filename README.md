@@ -1,9 +1,7 @@
 ### Hi there 👋
 
 
-
-![2206](https://user-images.githubusercontent.com/023478/7032435-287416e1-81e0-44c3-9c5f-085df75a0ada.jpg)
-
+<img width="100%" height="auto" src="https://camo.githubusercontent.com/f6decabc6a509fd6d5d8a1053fedc3ad96458e223c6a9f8f312d125b6e833c7b/68747470733a2f2f692e696d6775722e636f6d2f6958754c3148472e706e67" data-canonical-src="https://i.imgur.com/iXuL1HG.png" style="max-width: 100%;">
 
 
 
