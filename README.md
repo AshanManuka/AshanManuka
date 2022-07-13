@@ -2,10 +2,10 @@
 
 <h2><center> A passionate Full Stack developer from 🇱🇰 </center></h2>
 
-<img width="100%" height="auto" src="https://camo.githubusercontent.com/f6decabc6a509fd6d5d8a1053fedc3ad96458e223c6a9f8f312d125b6e833c7b/68747470733a2f2f692e696d6775722e636f6d2f6958754c3148472e706e67" data-canonical-src="https://i.imgur.com/iXuL1HG.png" style="max-width: 100%;">
-
-
-
+<div align=center>
+<img src="https://c.tenor.com/flflC6GFzO8AAAAM/sultan-alrefaei-programmer.gif" jsaction="load:XAeZkd;" jsname="HiaYvf" class="n3VNCb KAlRDb" alt="Programmer GIFs | Tenor" data-noaft="1" style="width: 300px; height: 200px; margin: 0px;">
+</div>
+<br>
 
 
 - 🌱 I’m currently learning Languages and FrameWorks
