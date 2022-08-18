@@ -9,10 +9,8 @@
 <br>
 
 
-- 🌱 I’m currently learning Languages and FrameWorks
-- 👯 I’m looking to collaborate here
-- 💬 Ask me about my self and my projects.
-- 📫 How to reach me: manukajayarathne.coma@gmail.com
+- currently learning Languages and FrameWorks
+- 💬 Ask me about my Projects : manukajayarathne.coma@gmail.com
 - 👨‍💻 All of my web projects are available At : http://manukasfolio.epizy.com/
 - ⚡ Everything is variables.
 <br>
