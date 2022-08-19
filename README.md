@@ -12,7 +12,7 @@
 - currently learning Languages and FrameWorks
 - 💬 Ask me about my Projects : manukajayarathne.coma@gmail.com
 - 👨‍💻 All of my web projects are available At : http://manukasfolio.epizy.com/
-- ⚡ Everything are variables.
+-  Everything are variables.
 <br>
 
 
