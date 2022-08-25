@@ -17,11 +17,7 @@
 
 
 <div align="center">
-  
-
-//![github stats](https://github-readme-stats.vercel.app/api?username=AshanManuka&count_private=true&show_icons=true&theme=radical) 
-
-  
+    
 </div>
 <div align="center">
 
