@@ -10,7 +10,7 @@
 
 
 - currently learning Languages and FrameWorks
-- 💬 Ask me about my Projects : manukajayarathne.coma@gmail.com
+- 💬 Ask me : manukajayarathne.coma@gmail.com
 - My Portfolio : https://ashanmanuka.github.io/Portfolio/
 -  Everything are variables.
 <br>
