@@ -18,7 +18,7 @@
 
 
 <div align="center">
-
+<img src="https://camo.githubusercontent.com/fefa238b304f869123681b474f505b1d06879ddc443fc686c10bffb60e96abf0/68747470733a2f2f61637469766974792d67726170682e6865726f6b756170702e636f6d2f67726170683f757365726e616d653d70617a696e64757368616e65267468656d653d676f7468616d" alt="ashanManuka's github activity graph" data-canonical-src="https://activity-graph.herokuapp.com/graph?username=AshanManuka&amp;theme=gotham" style="max-width: 100%;">
 </div>
 <div align="center">
 
