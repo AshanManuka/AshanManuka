@@ -18,7 +18,6 @@
 
 
 <div align="center">
-<img src="https://camo.githubusercontent.com/AshanManuka" alt="ashanManuka's github activity graph" data-canonical-src="https://activity-graph.herokuapp.com/graph?username=AshanManuka&amp;theme=gotham" style="max-width: 100%;">
 </div>
 <div align="center">
 
