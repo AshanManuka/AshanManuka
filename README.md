@@ -9,15 +9,17 @@
 <br>
 
 
-- currently learning Languages and FrameWorks
+
 - 💬 Ask me : manukajayarathne.coma@gmail.com
-- My Portfolio Link : https://ashanmanuka.github.io/Portfolio/
+
 
 -  Everything are variables.
 <br>
 
 
+
 <div align="center">
+ <b>My Portfolio :  https://ashanmanuka.github.io/Portfolio/</b>
 </div>
 <div align="center">
 
