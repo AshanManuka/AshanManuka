@@ -9,17 +9,18 @@
 <br>
 
 
+<div align="center">
+ 💬 Ask me : manukajayarathne.coma@gmail.com
+<br>
 
-- 💬 Ask me : manukajayarathne.coma@gmail.com
-
-
--  Everything are variables.
+<b>-  Everything are variables.</b>
+ </div>
 <br>
 
 
 
 <div align="center">
- <b>My Portfolio :  https://ashanmanuka.github.io/Portfolio/</b>
+ <h3>My Portfolio :  https://ashanmanuka.github.io/Portfolio/</h3>
 </div>
 <div align="center">
 
