@@ -13,7 +13,7 @@
  💬 Ask me : manukajayarathne.coma@gmail.com
 <br>
 
-<b>-  Everything are variables.</b>
+<b>-  All are variables.</b>
  </div>
 <br>
 
