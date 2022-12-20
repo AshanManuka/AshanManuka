@@ -10,10 +10,9 @@
 
 
 <div align="center">
- 💬 Ask me : manukajayarathne.coma@gmail.com
+ 💬 <h4>Ask me : manukajayarathne.coma@gmail.com</h4>
 <br>
 
-<b>-  All are variables.</b>
  </div>
 <br>
 
