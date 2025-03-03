@@ -19,7 +19,7 @@
 
 
 <div align="center">
- <h3>My Portfolio :  https://ashanmanuka.github.io/Portfolio/</h3>
+ <h3>My Portfolio :  https://ashanmanuka/biz</h3>
 </div>
 <div align="center">
 
